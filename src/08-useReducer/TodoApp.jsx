@@ -10,7 +10,7 @@ export const TodoApp = () => {
   
   return ( 
   <>
-    <h1>Tareas: { todosCount } <small>Pendientes: { pendingTodosCount }</small></h1>
+    <h1>Todos: { todosCount } <small>Pendientes: { pendingTodosCount }</small></h1>
     <hr />
     
         { todosCount  === 0 ? '' : <button 
