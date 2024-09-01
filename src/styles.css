@@ -1,0 +1,11 @@
+body {
+    padding: 5px;
+}
+
+
+input{
+    height: 60px;
+    width: 450px;
+    font-size: larger;
+    font: helvetic;
+}
